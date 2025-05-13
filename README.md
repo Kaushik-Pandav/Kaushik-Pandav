@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Flutter Development<br>💬 Ask me about Anything that I can Answer it ......<br>⚡ Fun fact: A Teacher Who is Currently Learning......<br><br>"Be Always What You Are"
+🌱 I’m currently learning Flutter Development<br>💬 Ask me about Anything that I can Answer it ......<br>⚡ Fun fact: A Teacher Who is Currently Learning......<br><br>"I’m not a great programmer; I’m just a good programmer with great habits."
 
 
 ## 🌐 Socials:
